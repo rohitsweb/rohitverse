@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/rohitkr2307" target="blank"><img src="https://img.shields.io/twitter/follow/rohitkr2307?logo=twitter&style=for-the-badge" alt="rohitscode" /></a> </p>
 
-- 🌱 I’m currently learning **MongoDB**
+- 🌱 I’m currently learning **MongoDB** - - **Mongoose**
 
 - 💬 Ask me about **React , Node , Express**
 

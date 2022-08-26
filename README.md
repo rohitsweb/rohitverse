@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/rohitscode" target="blank"><img src="https://img.shields.io/twitter/follow/rohitscode?logo=twitter&style=for-the-badge" alt="rohitscode" /></a> </p>
 
-- 🌱 I’m currently learning **REST API ** 
+- 🌱 I’m currently learning **REST API** 
 
 - 💬 Ask me about **React , Node , Express , MongoDB , Mongoose**
 

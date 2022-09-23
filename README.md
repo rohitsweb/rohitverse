@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
 <h3 align="center">A passionate Web3 developer</h3>
-<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitverse&" alt="rohitverse" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitverse&label=Profile%20views&color=0e75b6&style=flat" alt="rohitverse" /> </p>
 

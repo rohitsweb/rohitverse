@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Solidity** 
 
-- 💬 Ask me about **React , Node , Express , MongoDB , Mongoose,Hardhat , Truffle**
+- 💬 Ask me about **Javascript ,Node , Express , MongoDB , Mongoose,Hardhat , Truffle**
 
 - ⚡ Fun fact **I Think I am Funny Xd**
 

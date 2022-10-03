@@ -36,5 +36,5 @@
     <br>
     <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitverse&theme=onedark" alt="rohitverse" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitverse&theme=dark" alt="rohitverse" /></p>
   </div> 

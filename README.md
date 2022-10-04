@@ -38,6 +38,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitverse&theme=dark" alt="rohitverse" /></p>
   </div> 
-<p align="center" >
-[![@rohitverse's Holopin board](https://holopin.io/api/user/board?user=rohitverse)](https://holopin.io/@rohitverse)
+<p align="center">
+
+ [![@rohitverse's Holopin board](https://holopin.io/api/user/board?user=rohitverse)](https://holopin.io/@rohitverse)
+
+
 </p>

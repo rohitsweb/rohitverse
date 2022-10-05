@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
-<h3 align="center">A passionate Web3 developer</h3>
+<h3 align="center">A passionate Web3 Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitverse&label=Profile%20views&color=0e75b6&style=flat" alt="rohitverse" /> </p>
 
@@ -39,7 +39,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitverse&theme=dark" alt="rohitverse" /></p>
   </div> 
 <p align="center">
-<h1> Open Source</h1>
+#<h1> Open Source Contribution </h1>
 
 
 [![@rohitverse's Holopin board](https://holopin.io/api/user/board?user=rohitverse)](https://holopin.io/@rohitverse)

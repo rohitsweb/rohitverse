@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitverse&label=Profile%20views&color=0e75b6&style=flat" alt="rohitverse" /> </p>
 
-<p align="left"> 
+<p align="left "> 
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rohitverse&theme=onedark)](https://github.com/rohitverse/github-profile-trophy)

@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/rohitscode" target="blank"><img src="https://img.shields.io/twitter/follow/rohitscode?logo=twitter&style=for-the-badge" alt="rohitscode" /></a> </p>
 
-- 🌱 I’m currently learning **Solidity** 
+- 🌱 I’m currently learning  **Solidity** 
 
 - 💬 Ask me about **Javascript ,Node , Express , MongoDB , Mongoose,Hardhat , Truffle**
 

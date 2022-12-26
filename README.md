@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
 <h3 align="center">A passionate Web3 Developer</h3>
 
-<p align="left"> <img width="660" src="https://komarev.com/ghpvc/?username=rohitverse&label=Profile%20views&color=0e75b6&style=flat" alt="rohitverse" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitverse&label=Profile%20views&color=0e75b6&style=flat" alt="rohitverse" /> </p>
 
 <p align="left "> 
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rohitverse&theme=onedark)](https://github.com/rohitverse/github-profile-trophy)
-
-</a> </p>
+<p align="center">
+  <img width="660" src="https://github-profile-trophy.vercel.app/?username=rohitverse&theme=onedark&row=1&column=8">
+</p>
+</a></p>
 
 <p align="left"> <a href="https://twitter.com/rohitscode" target="blank"><img src="https://img.shields.io/twitter/follow/rohitscode?logo=twitter&style=for-the-badge" alt="rohitscode" /></a> </p>
 
@@ -31,14 +31,13 @@
 <diV>
 
   <div align="center">
-    <a href="#"><img alt="Rohit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohitverse&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
+    <a href="#">
+      <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rohitverse&show_icons=true&count_private=true&theme=tokyonight" alt="rohitverse's github stats" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitverse&theme=tokyonight" /> </p>
+    </a>
     <a href="#"><img alt="Rohit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitverse&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
     <br>
     <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitverse&theme=dark" alt="rohitverse" /></p>
-  </div> 
-<p align="center">
 #<h1> Open Source Contributions 🔗 </h1>
   
   

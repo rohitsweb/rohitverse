@@ -12,9 +12,9 @@
 
 <p align="left"> <a href="https://twitter.com/rohitscode" target="blank"><img src="https://img.shields.io/twitter/follow/rohitscode?logo=twitter&style=for-the-badge" alt="rohitscode" /></a> </p>
 
-- 🌱 I’m currently learning  **Solidity** 
+- 🌱 I’m currently learning  **EtherJs** 
 
-- 💬 Ask me about **Javascript ,Node , Express , MongoDB , Mongoose,Hardhat , Truffle**
+- 💬 Ask me about **Javascript, Solidity, Blockchain ,Node , Express , MongoDB , Mongoose,Hardhat**
 
 - ⚡ Fun fact **I Think I am Funny Xd**
 

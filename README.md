@@ -1,27 +1,27 @@
-<h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
+<h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
 <h3 align="center">A Passionate Full Stack Web3 Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitverse&label=Profile%20views&color=0e75b6&style=flat" alt="rohitverse" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ayushkumar95&label=Profile%20views&color=0e75b6&style=flat" alt="Ayushkumar95" /> </p>
 
 <p align="left "> 
 
 <p align="center">
-  <img width="660" src="https://github-profile-trophy.vercel.app/?username=rohitverse&theme=onedark&row=1&column=8">
+  <img width="660" src="https://github-profile-trophy.vercel.app/?username=Ayushkumar95&theme=onedark&row=1&column=8">
 </p>
 </a></p>
 
-<p align="left"> <a href="https://twitter.com/rohitscode" target="blank"><img src="https://img.shields.io/twitter/follow/rohitscode?logo=twitter&style=for-the-badge" alt="rohitscode" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Ayush_kumar53" target="blank"><img src="https://img.shields.io/twitter/follow/Ayush_kumar53?logo=twitter&style=for-the-badge" alt="Ayush_kumar53" /></a> </p>
 
-- 🌱 I’m currently learning  **ReactJs** 
+- 🌱 I’m currently learning  **EtherJs** 
 
-- 💬 Ask me about **Javascript, Solidity, Blockchain ,Node , Express , MongoDB , Mongoose,Hardhat**
+- 💬 Ask me about **Javascript,MERN, Solidity, Blockchain,Hardhat**
 
-- ⚡ Fun fact **I Think I am Funny Xd**
+- ⚡ Fun fact **I Think I am Devil**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rohitscode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohitscode" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rohitverse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohitverse" height="30" width="40" /></a>
+<a href="https://twitter.com/Ayush_kumar53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ayush_kumar53" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Ayushkumar95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ayushkumar95" height="30" width="40" /></a>
 
 </p>
 
@@ -32,17 +32,13 @@
 
   <div align="center">
     <a href="#">
-      <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rohitverse&show_icons=true&count_private=true&theme=tokyonight" alt="rohitverse's github stats" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitverse&theme=tokyonight" /> </p>
+      <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ayushkumar95&show_icons=true&count_private=true&theme=tokyonight" alt="Ayushkumar95's github stats" /> </p></a>
+    <a href="#">  <p align="center"> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushkumar95&theme=tokyonight" /> </p>
     </a>
-    <a href="#"><img alt="Rohit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitverse&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
+    <a href="#"><img alt="Ayush's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushkumar95&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
     <br>
     <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
 
-#<h1>🐧 Open Source Contributions 🔗 </h1>
-  
-  
-[![@rohitverse's Holopin board](https://holopin.io/api/user/board?user=rohitverse)](https://holopin.io/@rohitverse)
-  
-   
-  <a href="https://github.com/rohitverse/github-readme-activity-graph"><img alt="Rohit Kumar Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=rohitverse&theme=tokyonight" /></a>
+
+  <a href="https://github.com/Ayushkumar95/github-readme-activity-graph"><img alt="Ayush Kumar Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Ayushkumar95&theme=tokyonight" /></a>
 </p>

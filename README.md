@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently building  **Projects** 
 
-- 💬 Ask me about **Javascript, Solidity, Blockchain ,Node , Express , MongoDB , Mongoose,Hardhat**
+- 💬 Ask me about **Javascript, Solidity, Blockchain ,MERN Stack,Hardhat**
 
 - ⚡ Fun fact **I Think I am Funny Xd**
 

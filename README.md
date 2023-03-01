@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I'm Rohit Kumar </h1>
+<h1 align="center">Hi👋, I'm KR ROHIT </h1>
 <h3 align="center">A Passionate Full Stack Web3 Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitverse&label=Profile%20views&color=0e75b6&style=flat" alt="rohitverse" /> </p>
@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently building  **Projects** 
 
-- 💬 Ask me about **Javascript, Solidity, Blockchain ,MERN Stack,Hardhat**
+- 💬 Ask me about **Javascript, Solidity, Blockchain , MERN Stack , Hardhat **
 
 - ⚡ Fun fact **I Think I am Funny Xd**
 
